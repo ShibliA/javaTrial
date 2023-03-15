@@ -4,4 +4,10 @@ class pw
    }
       ///code
     }
+}class pw
+{
+   public void m2()
+   }
+      ///code
+    }
 }
